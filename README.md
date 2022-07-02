@@ -5,6 +5,7 @@
 |key|value|
 |---|-----|
 |氏名|小島 凌 (Kojima Ryo)|
+|生年月日|1992/07/14|
 |GitHub|[kojimaro](https://github.com/kojimaro)|
 |Blog|[k5ry-labo](https://kojiryo.com/)|
 |Zenn|[kojmaro](https://zenn.dev/kojimaro)|
