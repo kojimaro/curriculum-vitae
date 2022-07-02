@@ -16,9 +16,9 @@
 ## 技術スタック
 ### 言語
 - PHP
-- Dart (個人開発)
 - JavaScripte
 - MySQL
+- Dart (個人開発)
 
 ### フレームワーク
 - Laravel
